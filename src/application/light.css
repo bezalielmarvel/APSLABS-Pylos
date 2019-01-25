@@ -1,0 +1,52 @@
+#rootMenu {
+	-fx-background-color: white;
+
+}
+
+#title {
+	-fx-text-fill: black;
+} 
+
+#namePlayer1 {
+	-fx-background-color: black;
+	-fx-text-fill: white;
+}
+
+#namePlayer2 {
+	-fx-background-color: black;
+	-fx-text-fill: white;
+}
+
+#colorPlayer1 {
+	-fx-background-color: black;
+}
+
+#colorPlayer2 {
+	-fx-background-color: black;
+}
+
+#playBtn {
+	-fx-background-color: #000000; 
+	-fx-border-width: 5px; 
+	-fx-font-size: 2em; 
+	-fx-text-fill: #ffffff;
+}
+
+#quitBtn {
+	-fx-background-color: #000000; 
+	-fx-border-width: 5px; 
+	-fx-font-size: 2em; 
+	-fx-text-fill: #ffffff;
+}
+
+#player1 {
+	-fx-font-size: 2em; 
+	-fx-font-weight: bold; 
+	-fx-text-fill: #000000;
+}
+
+#player2 {
+	-fx-font-size: 2em; 
+	-fx-font-weight: bold; 
+	-fx-text-fill: #000000;
+}
